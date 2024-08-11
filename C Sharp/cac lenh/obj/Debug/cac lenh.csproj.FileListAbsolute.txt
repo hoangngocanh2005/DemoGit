@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Documents\C#\cac lenh\bin\Debug\cac lenh.exe.config
+C:\Users\DELL\OneDrive\Documents\C#\cac lenh\bin\Debug\cac lenh.exe
+C:\Users\DELL\OneDrive\Documents\C#\cac lenh\bin\Debug\cac lenh.pdb
+C:\Users\DELL\OneDrive\Documents\C#\cac lenh\obj\Debug\cac lenh.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\C#\cac lenh\obj\Debug\cac lenh.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\C#\cac lenh\obj\Debug\cac lenh.exe
+C:\Users\DELL\OneDrive\Documents\C#\cac lenh\obj\Debug\cac lenh.pdb

@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Documents\C#\Array tinh tong\bin\Debug\Array tinh tong.exe.config
+C:\Users\DELL\OneDrive\Documents\C#\Array tinh tong\bin\Debug\Array tinh tong.exe
+C:\Users\DELL\OneDrive\Documents\C#\Array tinh tong\bin\Debug\Array tinh tong.pdb
+C:\Users\DELL\OneDrive\Documents\C#\Array tinh tong\obj\Debug\Array tinh tong.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\C#\Array tinh tong\obj\Debug\Array tinh tong.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\C#\Array tinh tong\obj\Debug\Array tinh tong.exe
+C:\Users\DELL\OneDrive\Documents\C#\Array tinh tong\obj\Debug\Array tinh tong.pdb

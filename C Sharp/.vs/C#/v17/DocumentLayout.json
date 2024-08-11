@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Documents\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11D2AB6B-65BE-41CA-B691-72E008FE6672}|ASM_Part1_Programming_7388_HoangNgocAnh_BH01635_SE07202\\ASM_Part1_Programming_7388_HoangNgocAnh_BH01635_SE07202.csproj|c:\\users\\dell\\onedrive\\documents\\c#\\asm_part1_programming_7388_hoangngocanh_bh01635_se07202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D2AB6B-65BE-41CA-B691-72E008FE6672}|ASM_Part1_Programming_7388_HoangNgocAnh_BH01635_SE07202\\ASM_Part1_Programming_7388_HoangNgocAnh_BH01635_SE07202.csproj|solutionrelative:asm_part1_programming_7388_hoangngocanh_bh01635_se07202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A0C384-3549-4F5F-B399-8FA03AA4DBB9}|ASM_Part1_Programming_7388_Ho\u00E0ng Ng\u1ECDc Anh_BH01635_SE07202\\ASM_Part1_Programming_7388_Ho\u00E0ng Ng\u1ECDc Anh_BH01635_SE07202.csproj|C:\\Users\\DELL\\OneDrive\\Documents\\C#\\asm_part1_programming_7388_ho\u00E0ng ng\u1ECDc anh_bh01635_se07202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A0C384-3549-4F5F-B399-8FA03AA4DBB9}|ASM_Part1_Programming_7388_Ho\u00E0ng Ng\u1ECDc Anh_BH01635_SE07202\\ASM_Part1_Programming_7388_Ho\u00E0ng Ng\u1ECDc Anh_BH01635_SE07202.csproj|solutionrelative:asm_part1_programming_7388_ho\u00E0ng ng\u1ECDc anh_bh01635_se07202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695F8698-A9C4-4A6D-B6FC-66D7B1A67AEC}|Bill Water\\Bill Water.csproj|C:\\Users\\DELL\\OneDrive\\Documents\\C#\\bill water\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695F8698-A9C4-4A6D-B6FC-66D7B1A67AEC}|Bill Water\\Bill Water.csproj|solutionrelative:bill water\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7D4FB8-7A1B-49A3-9D66-469FB6E36DF6}|show menu\\show menu.csproj|C:\\Users\\DELL\\OneDrive\\Documents\\C#\\show menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7D4FB8-7A1B-49A3-9D66-469FB6E36DF6}|show menu\\show menu.csproj|solutionrelative:show menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\C#\\ASM_Part1_Programming_7388_HoangNgocAnh_BH01635_SE07202\\Program.cs",
+              "RelativeDocumentMoniker": "ASM_Part1_Programming_7388_HoangNgocAnh_BH01635_SE07202\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\C#\\ASM_Part1_Programming_7388_HoangNgocAnh_BH01635_SE07202\\Program.cs",
+              "RelativeToolTip": "ASM_Part1_Programming_7388_HoangNgocAnh_BH01635_SE07202\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:22:30.533Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\C#\\ASM_Part1_Programming_7388_Ho\u00E0ng Ng\u1ECDc Anh_BH01635_SE07202\\Program.cs",
+              "RelativeDocumentMoniker": "ASM_Part1_Programming_7388_Ho\u00E0ng Ng\u1ECDc Anh_BH01635_SE07202\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\C#\\ASM_Part1_Programming_7388_Ho\u00E0ng Ng\u1ECDc Anh_BH01635_SE07202\\Program.cs",
+              "RelativeToolTip": "ASM_Part1_Programming_7388_Ho\u00E0ng Ng\u1ECDc Anh_BH01635_SE07202\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:54:56.637Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\C#\\show menu\\Program.cs",
+              "RelativeDocumentMoniker": "show menu\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\C#\\show menu\\Program.cs",
+              "RelativeToolTip": "show menu\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:55:03.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Documents\\C#\\Bill Water\\Program.cs",
+              "RelativeDocumentMoniker": "Bill Water\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\C#\\Bill Water\\Program.cs",
+              "RelativeToolTip": "Bill Water\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:00:00.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

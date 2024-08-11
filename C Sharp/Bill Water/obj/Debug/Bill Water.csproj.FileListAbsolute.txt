@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Documents\C#\Bill Water\bin\Debug\Bill Water.exe.config
+C:\Users\DELL\OneDrive\Documents\C#\Bill Water\bin\Debug\Bill Water.exe
+C:\Users\DELL\OneDrive\Documents\C#\Bill Water\bin\Debug\Bill Water.pdb
+C:\Users\DELL\OneDrive\Documents\C#\Bill Water\obj\Debug\Bill Water.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\C#\Bill Water\obj\Debug\Bill Water.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\C#\Bill Water\obj\Debug\Bill Water.exe
+C:\Users\DELL\OneDrive\Documents\C#\Bill Water\obj\Debug\Bill Water.pdb

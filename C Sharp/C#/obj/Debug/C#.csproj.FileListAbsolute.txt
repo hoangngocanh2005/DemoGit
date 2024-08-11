@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Documents\C#\C#\bin\Debug\C#.exe.config
+C:\Users\DELL\OneDrive\Documents\C#\C#\bin\Debug\C#.exe
+C:\Users\DELL\OneDrive\Documents\C#\C#\bin\Debug\C#.pdb
+C:\Users\DELL\OneDrive\Documents\C#\C#\obj\Debug\C#.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\C#\C#\obj\Debug\C#.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\C#\C#\obj\Debug\C#.exe
+C:\Users\DELL\OneDrive\Documents\C#\C#\obj\Debug\C#.pdb

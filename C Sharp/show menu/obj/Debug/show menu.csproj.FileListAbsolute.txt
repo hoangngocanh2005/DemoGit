@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Documents\C#\show menu\bin\Debug\show menu.exe.config
+C:\Users\DELL\OneDrive\Documents\C#\show menu\bin\Debug\show menu.exe
+C:\Users\DELL\OneDrive\Documents\C#\show menu\bin\Debug\show menu.pdb
+C:\Users\DELL\OneDrive\Documents\C#\show menu\obj\Debug\show menu.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\C#\show menu\obj\Debug\show menu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\C#\show menu\obj\Debug\show menu.exe
+C:\Users\DELL\OneDrive\Documents\C#\show menu\obj\Debug\show menu.pdb

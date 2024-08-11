@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\DESKTOP-8VEM973\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\C Sharp\\ASM_Part1_Programming_7388_HoangNgocAnh_BH01635_SE07202\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0202CC-4E51-4B24-A481-9B6B857D77AE}|..\\v\u00ED d\u1EE5 v\u1EC1 asm2\\v\u00ED d\u1EE5 v\u1EC1 asm2.csproj|\\\\desktop-8vem973\\users\\dell\\cisco packet tracer 8.2.2\\saves\\c sharp\\v\u00ED d\u1EE5 v\u1EC1 asm2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\DESKTOP-8VEM973\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\C Sharp\\v\u00ED d\u1EE5 v\u1EC1 asm2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\v\u00ED d\u1EE5 v\u1EC1 asm2\\Program.cs",
+              "ToolTip": "\\\\DESKTOP-8VEM973\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\C Sharp\\v\u00ED d\u1EE5 v\u1EC1 asm2\\Program.cs",
+              "RelativeToolTip": "..\\v\u00ED d\u1EE5 v\u1EC1 asm2\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:24:38.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

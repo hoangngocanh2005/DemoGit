@@ -1,0 +1,7 @@
+\\DESKTOP-8VEM973\Users\DELL\Cisco Packet Tracer 8.2.2\saves\C Sharp\ví dụ về asm2\bin\Debug\ví dụ về asm2.exe.config
+\\DESKTOP-8VEM973\Users\DELL\Cisco Packet Tracer 8.2.2\saves\C Sharp\ví dụ về asm2\bin\Debug\ví dụ về asm2.exe
+\\DESKTOP-8VEM973\Users\DELL\Cisco Packet Tracer 8.2.2\saves\C Sharp\ví dụ về asm2\bin\Debug\ví dụ về asm2.pdb
+\\DESKTOP-8VEM973\Users\DELL\Cisco Packet Tracer 8.2.2\saves\C Sharp\ví dụ về asm2\obj\Debug\ví dụ về asm2.csproj.AssemblyReference.cache
+\\DESKTOP-8VEM973\Users\DELL\Cisco Packet Tracer 8.2.2\saves\C Sharp\ví dụ về asm2\obj\Debug\ví dụ về asm2.csproj.CoreCompileInputs.cache
+\\DESKTOP-8VEM973\Users\DELL\Cisco Packet Tracer 8.2.2\saves\C Sharp\ví dụ về asm2\obj\Debug\ví dụ về asm2.exe
+\\DESKTOP-8VEM973\Users\DELL\Cisco Packet Tracer 8.2.2\saves\C Sharp\ví dụ về asm2\obj\Debug\ví dụ về asm2.pdb

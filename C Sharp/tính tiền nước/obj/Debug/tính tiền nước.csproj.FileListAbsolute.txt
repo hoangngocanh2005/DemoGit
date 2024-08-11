@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Documents\C#\tính tiền nước\bin\Debug\tính tiền nước.exe.config
+C:\Users\DELL\OneDrive\Documents\C#\tính tiền nước\bin\Debug\tính tiền nước.exe
+C:\Users\DELL\OneDrive\Documents\C#\tính tiền nước\bin\Debug\tính tiền nước.pdb
+C:\Users\DELL\OneDrive\Documents\C#\tính tiền nước\obj\Debug\tính tiền nước.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\C#\tính tiền nước\obj\Debug\tính tiền nước.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\C#\tính tiền nước\obj\Debug\tính tiền nước.exe
+C:\Users\DELL\OneDrive\Documents\C#\tính tiền nước\obj\Debug\tính tiền nước.pdb
